@@ -1,0 +1,36 @@
+.cards11{
+    /* background-color: antiquewhite; */
+    width: 100%;
+    display: grid;
+    grid-template-columns: 190px 190px 190px 190px;
+    gap: 1rem;
+    justify-content: center;
+    /* height: 900px; */
+}
+.south{
+    /* background-color: aqua; */
+    text-align: center;
+    margin-top: 40px;
+    color: rgba(14, 47, 138, 0.774);
+}
+.p1 img,.p2 img,.p3 img,.p4 img,.p5 img,.p6 img,.p6 img,.p7 img,.p8 img{
+    width: 190px;
+    height: 170px;
+}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8{
+    /* background-color: blue; */
+    height: 225px;
+}
+.p1 h6,.p2 h6,.p3 h6,.p4 h6,.p5 h6,.p6 h6,.p7 h6,.p8 h6{
+    /* background-color: red; */
+    margin-top: -1px;
+}
+.p1 a,.p2 a,.p3 a,.p4 a,.p5 a,.p6 a,.p7 a,.p8 a{
+    color: rgb(121, 70, 169);
+}
+.p1 a:hover,.p2 a:hover,.p3 a:hover,.p4 a:hover,.p5 a:hover,.p6 a:hover,.p7 a:hover,.p8 a:hover{
+    color: red;
+    text-decoration: underline;
+
+}
+

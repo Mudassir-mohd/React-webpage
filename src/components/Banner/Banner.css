@@ -1,0 +1,76 @@
+.explore{
+    /* background-color: aqua; */
+    text-align: center;
+    margin-top: 50px;
+}
+.c2{
+    background-color: rgb(207, 207, 207);
+    height: 310px;
+    width: 100%;
+}
+.rr1{
+    display: flex;
+    justify-content: center;
+    gap: 05px;
+    margin-top: 20px;
+    /* background-color: chartreuse; */
+}
+
+.rc1,.rc2,.rc3,.rc4,.rc5,.rc6,.rc7,.rc8{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 90px;
+    text-align: center;
+}
+.rc1:hover,.rc2:hover,.rc3:hover,.rc4:hover,.rc5:hover,.rc6:hover,.rc7:hover,.rc8:hover{
+    background-color: rgb(239, 130, 5);
+}
+.rc1 img,.rc2 img,.rc3 img,.rc4 img,.rc5 img,.rc6 img,.rc7 img,.rc8 img{
+    /* background-color: aqua; */
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+}
+.rc1 h6,.rc2 h6,.rc3 h6,.rc4 h6,.rc5 h6,.rc6 h6,.rc7 h6,.rc8 h6{
+    /* background-color: red; */
+    margin-top: -2px;
+}
+.rc1 a,.rc2 a,.rc3 a,.rc4 a,.rc5 a,.rc6 a,.rc7 a,.rc8 a{
+    color: rgba(23, 22, 22, 0.779);
+}
+.rc1 a:hover,.rc2 a:hover,.rc3 a:hover,.rc4 a:hover,.rc5 a:hover,.rc6 a:hover,.rc7 a:hover,.rc8 a:hover{
+    color: rgba(202, 0, 0, 0.913);
+}
+.rr2{
+    display: flex;
+    justify-content: center;
+    gap: 05px;
+    margin-top: 20px;
+    /* background-color: chartreuse; */
+}
+.rc9,.rc10,.rc11,.rc12,.rc13{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.rc9:hover,.rc10:hover,.rc11:hover,.rc12:hover,.rc13:hover{
+    background-color: rgb(239, 130, 5);
+}
+.rc9 img,.rc10 img,.rc11 img,.rc12 img,.rc13 img{
+    /* background-color: aqua; */
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+}
+.rc9 h6,.rc10 h6,.rc11 h6,.rc12 h6,.rc13 h6{
+    /* text-decoration: underline; */
+    /* background-color: red; */
+    margin-top: -2px;
+}
+.rc9 a,.rc10 a,.rc11 a,.rc12 a,.rc13 a{
+    color: rgba(23, 22, 22, 0.779);
+}
+.rc9 a:hover,.rc10 a:hover,.rc11 a:hover,.rc12 a:hover,.rc13 a:hover{
+    color: rgba(202, 0, 0, 0.913);
+}

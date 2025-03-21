@@ -1,0 +1,72 @@
+.fun1{
+    margin-top: 30px;
+    text-align: center;
+    /* background-color: antiquewhite; */
+    font-family: cursive;
+    font-style: oblique;
+}
+.dish{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    /* background-color: aqua; */
+    font-size: small;
+    margin-top: 40px;
+}
+.dish a{
+    color: black;
+}
+.dish a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.dish2{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    /* background-color: rgb(106, 59, 25); */
+    font-size: small;
+    margin-top: -20px;
+}
+.dish2 a{
+    color: black;
+}
+.dish2 a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.dish3{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    /* background-color: rgb(119, 255, 0); */
+    font-size: small;
+    margin-top: -20px;
+}
+.dish3 a{
+    color: black;
+}
+.dish3 a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.policy{
+    text-align: center;
+}
+.policy a{
+    color: rgba(53, 33, 33, 0.621);
+}
+.policy a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.mudassir{
+    text-align: center;
+    margin-top: -20px;
+    color: rgba(0, 0, 0, 0.516);
+}
+.final{
+    text-align: center;
+    margin-top: -25px;
+    color: rgba(0, 0, 0, 0.516);
+}
